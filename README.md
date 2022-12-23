@@ -1,5 +1,10 @@
 # UPC-AML-ArchitectureClassif
 
+**A report is added to this github page in which each step is clearly explained and reviewed.**
+
+## Abstract 
+In this study, a Catalan Architecture image classification model was developed using both deep learning and non-deep learning methods. The multiclass classification problem involves the eight most frequently occuring styles in Catalunya. The deep learning approach involved fine tuning a convolutional neural network. The non-deep learning approach involved extracting features from the images and training traditional machine learning models on the extracted features. The results showed that the deep learning approach outperformed the non-deep learning approach.
+
 ## How To Run & Brief per-notebook description 
 1. On a Google Drive Account, create an empty directory in which all the Colab Files should be placed. At the top of each notebook, the 'project_dir' is requested in which you should specifiy the location to this Directory. 
 2. From here on all chunks of all notebooks should be ran in the order that is specified (in numerical order by fe. running '1_1_... ' before '1_2_...'). Each of the notebooks has the necessary instructions included in between chunks. The main functions and possible relevant details are listed for each of the notebooks below:
