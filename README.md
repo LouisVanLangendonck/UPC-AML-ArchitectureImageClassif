@@ -1,6 +1,6 @@
 # UPC-AML-ArchitectureClassif
 
-**A report is added to this github page in which each step is clearly explained and reviewed.**
+**A report (report.pdf) is added to this github page in which each step is clearly explained and reviewed.**
 
 ## Abstract 
 In this study, a Catalan Architecture image classification model was developed using both deep learning and non-deep learning methods. The multiclass classification problem involves the eight most frequently occuring styles in Catalunya. The deep learning approach involved fine tuning a convolutional neural network. The non-deep learning approach involved extracting features from the images and training traditional machine learning models on the extracted features. The results showed that the deep learning approach outperformed the non-deep learning approach.
