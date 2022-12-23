@@ -1,4 +1,4 @@
-# UPC-AML-ArchitectureClassif
+# UPC-AML-ArchitectureImageClassif
 
 **A report (report.pdf) is added to this github page in which each step is clearly explained and reviewed.**
 
